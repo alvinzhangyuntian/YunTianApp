@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">YunTianApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="yuntian">云&#160;天</string>
+    <string name="yuntian_share">&#376;&#356;:话说我还是单身，求对象啊\n路人:楼上说的可都是真的啊</string>
+</resources>
