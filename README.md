@@ -8,3 +8,6 @@ This is my first app to share, it is in developing now.
 
 TODO LIST:
 暂时先到这，有时间继续
+
+这里会标明用到的开源项目，感谢那些大神的无私奉献！
+https://github.com/square/android-times-square
